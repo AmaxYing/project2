@@ -1,1 +1,1 @@
-# project2
+Details are in Investment Analytics notebook.
